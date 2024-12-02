@@ -1,5 +1,2 @@
 Source code for the program "Mіllet Sеeds"
-
-READ ME!!!<br>
-This is my private project. I was the only person working on it, so it will not build on other machines.
-<br>But you can still inspect most of my code to make sure I am the one who wrote it.
+This program analyzes a photo you upload and detects bad millet seeds in it, highlighting them in red color.
